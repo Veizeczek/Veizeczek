@@ -26,7 +26,9 @@ I like building small, lightweight tools that solve real problems. I mostly writ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Veizeczek&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veizeczek&layout=compact&hide_border=true&theme=github_dark&langs_count=5" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Veizeczek&theme=github_dark" alt="GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Veizeczek&theme=github_dark" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Veizeczek&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 </div>
